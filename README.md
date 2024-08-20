@@ -20,4 +20,4 @@ The neural network will be able to extract
 - Geolocate the store
 - Provide lowest price for the scanned item
 - Plot historical graphs
-- use https://upcdatabase.org/ to match the code with the item
+- use https://upcdatabase.org/ to match the code with the item, if not stored inside database
